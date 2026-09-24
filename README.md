@@ -1,57 +1,55 @@
-# Lavish Nagar
+# Hi, I'm Lavish Nagar 👋
 
-**Software Engineering / SDE Intern Candidate**  
-*Full-Stack Development • Real-Time Systems • Applied AI & Algorithms*
+**B.Tech CSE** | **Software Engineer** | **Full-Stack & AI/ML Developer** | **Problem Solver**  
+🏆 **450+ DSA Problems Solved**
 
-[Email](mailto:lavishnagar408@gmail.com) • [LinkedIn](https://linkedin.com/in/lavish-nagar-b912082aa) • [GitHub](https://github.com/lavishnagar118) • [LeetCode](https://leetcode.com/u/lavish___nagar/) • [Featured Project](https://news-pulse-brown.vercel.app)
-
----
-
-## Introduction
-
-I am a Computer Science undergraduate at IIMT Engineering College (2023–2027), passionate about software engineering, full-stack development, and problem solving. I enjoy building practical applications, exploring AI/ML, and developing reliable backend systems. I have solved 450+ DSA problems and continuously work on improving my engineering skills through projects and competitive programming.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavish-nagar-b912082aa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lavishnagar118)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lavish___nagar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lavishnagar408@gmail.com)
 
 ---
 
-## Education
+## 👨‍💻 About Me
 
-- **B.Tech in Computer Science and Engineering**  
-  **IIMT Engineering College** (2023 – 2027)  
-  *Core Coursework*: Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks.
+I am a Computer Science undergraduate at IIMT Engineering College (2023–2027), passionate about software engineering, full-stack development, AI/ML, and problem solving. I enjoy building practical applications, exploring intelligent systems, and developing reliable backend solutions. I have solved 450+ DSA problems and continuously work on improving my engineering skills through projects and competitive programming.
+
+- 🎓 **Education**: B.Tech in Computer Science and Engineering, IIMT Engineering College (2023–2027)
+- 💻 **Core Technologies**: TypeScript, Next.js, React, Node.js, Python, C++, MongoDB
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-| Project | Key Technologies | Architecture Highlights | Links |
+- **Languages**: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+- **Frontend**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+- **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) REST APIs, WebSockets, JWT
+- **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **AI/ML**: Scikit-learn, OpenCV, `face_recognition`, Ollama, Deep Learning
+- **Tools & Integrations**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) Razorpay APIs, Firebase Auth, Cloudinary
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **News Pulse** | Next.js, TypeScript, Python, FastAPI, MongoDB Atlas, scikit-learn | Automated RSS ingestion pipeline, TF-IDF + Agglomerative cosine clustering engine, automated GitHub Actions freshness cron, and chronological narrative timeline. | [Live Demo](https://news-pulse-brown.vercel.app) • [Repository](https://github.com/lavishnagar118/news-pulse) |
-| **RecoverIQ** | TypeScript, Node.js, Express, Razorpay API, Ollama | Built for Razorpay Buildathon (Track 3). Implements a deterministic revenue recovery decision engine, backend policy gating before financial actions, and Razorpay Test Mode webhooks. | [Repository](https://github.com/lavishnagar118/RecoverIQ) |
-| **Smart Canteen** | React, Node.js, Express, MongoDB, Socket.IO, Razorpay, Firebase | Real-time canteen ordering and kitchen display system (KDS) featuring live parallel FIFO queue progression via WebSockets, multi-role interfaces (Customer/Staff/Admin), and Razorpay checkout. | [Live Demo](https://smart-canteen-psi.vercel.app) • [Repository](https://github.com/lavishnagar118/Smart-Canteen) |
-| **HabitQuest** | React 18, TypeScript, Vite, Tailwind CSS, Radix UI, Recharts, Vitest | Modern daily habit and task tracking dashboard built with typed component architecture, custom interactive analytics charts, Zod form validation, and Vitest test coverage. | [Live Demo](https://habit-quest-khaki.vercel.app) • [Repository](https://github.com/lavishnagar118/HabitQuest) |
+| **News Pulse** | Automated RSS news publication platform that aggregates multi-source reporting into topic clusters along a chronological narrative timeline. | Next.js, TypeScript, Python, FastAPI, MongoDB Atlas, scikit-learn | [Live Demo](https://news-pulse-brown.vercel.app) • [Repository](https://github.com/lavishnagar118/news-pulse) |
+| **RecoverIQ** | Deterministic revenue recovery platform built for Razorpay Buildathon (Track 3) featuring backend policy gates and Test Mode webhooks. | TypeScript, Node.js, Express, Razorpay API, Ollama | [Repository](https://github.com/lavishnagar118/RecoverIQ) |
+| **Smart Canteen** | Real-time canteen ordering and kitchen display system (KDS) with live parallel FIFO queues via WebSockets and Razorpay checkout. | React, Node.js, Express, MongoDB, Socket.IO, Razorpay, Firebase | [Live Demo](https://smart-canteen-psi.vercel.app) • [Repository](https://github.com/lavishnagar118/Smart-Canteen) |
+| **HabitQuest** | Modern daily habit and task tracking dashboard featuring typed components, interactive analytics charts, and form validation. | React 18, TypeScript, Vite, Tailwind CSS, Radix UI, Recharts, Vitest | [Live Demo](https://habit-quest-khaki.vercel.app) • [Repository](https://github.com/lavishnagar118/HabitQuest) |
 
 ---
 
-## Technical Skills
-
-- **Languages**: TypeScript, JavaScript (ES6+), Python, C++, Java, C, SQL
-- **Frontend Development**: React.js, Next.js, Vite, Tailwind CSS, Radix UI, shadcn/ui, Recharts, HTML5, CSS3
-- **Backend & Systems**: Node.js, Express.js, FastAPI, Flask, REST APIs, WebSockets (Socket.IO), JWT, Redis
-- **Databases**: MongoDB (Atlas & Mongoose), MySQL
-- **AI, ML & Computer Vision**: Scikit-learn (TF-IDF, Agglomerative Clustering), OpenCV / `face_recognition`, Ollama (Local LLM Integration), Deep Learning basics
-- **Tools & Cloud Integrations**: Git, GitHub Actions, Razorpay API & Webhooks, Firebase Auth, Twilio REST API, Cloudinary, Vitest, Postman
-
----
-
-## Problem Solving
+## 🧠 Problem Solving
 
 - **450+ Data Structures & Algorithms Problems Solved** across arrays, strings, linked lists, trees, graphs, dynamic programming, and recursion.
-- [LeetCode Profile](https://leetcode.com/u/lavish___nagar/): Active competitive coding and algorithm practice.
+- [LeetCode Profile](https://leetcode.com/u/lavish___nagar/): Active competitive programming and algorithm practice.
 - [C++ DSA Supreme Repository](https://github.com/LavishNagar/DSA-supreme): Core data structure implementations and topic-wise algorithmic solutions in C++.
 
 ---
 
-## Certifications & Achievements
+## 🏆 Achievements & Certifications
 
 - **IIMT Coding Competition**: Secured **1st Position** with cash prize for algorithmic problem solving.
 - **Razorpay Buildathon (Track 3: AI Revenue Recovery)**: Designed and implemented **RecoverIQ** featuring deterministic policy controls and Razorpay Test Mode integration.
@@ -62,10 +60,8 @@ I am a Computer Science undergraduate at IIMT Engineering College (2023–2027),
 
 ---
 
-## Contact
+## 🎓 Education
 
-- **Email**: [lavishnagar408@gmail.com](mailto:lavishnagar408@gmail.com)
-- [LinkedIn](https://linkedin.com/in/lavish-nagar-b912082aa)
-- [GitHub](https://github.com/lavishnagar118)
-- [LeetCode](https://leetcode.com/u/lavish___nagar/)
-- [Featured Live Project](https://news-pulse-brown.vercel.app)
+- **B.Tech in Computer Science and Engineering**  
+  **IIMT Engineering College** (2023 – 2027)  
+  *Core Coursework*: Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks.
